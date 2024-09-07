@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your **"7-Day, 7-Project Machine Learning & Deep Learning Portfolio"**. This will introduce your project series, the technologies used, and how someone can navigate through each project.
 
 ---
 
