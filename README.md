@@ -9,7 +9,7 @@ Welcome to my **7-Day, 7-Project Machine Learning & Deep Learning** challenge. O
 ## Table of Contents
 
 1. [Day 1: Image Classification using CNNs](#day-1-image-classification-using-cnns)
-2. [Day 2: Brain Tumor Detection using MRI Scans](#day-2-brain-tumor-detection-using-mri-scans)
+<!-- 2. [Day 2: Brain Tumor Detection using MRI Scans](#day-2-brain-tumor-detection-using-mri-scans)
 3. [Day 3: Time Series Forecasting for Agricultural Data](#day-3-time-series-forecasting-for-agricultural-data)
 4. [Day 4: Sentiment Analysis with NLP](#day-4-sentiment-analysis-with-nlp)
 5. [Day 5: Cryptographic Algorithm Detection](#day-5-cryptographic-algorithm-detection)
@@ -35,8 +35,8 @@ You can install the required Python packages using the following command:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Project Descriptions
+-->
+## Project Descriptions 
 
 ### Day 1: Image Classification using CNNs
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 - **Dataset**: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 - **Highlights**: Demonstrates basic image classification using CNNs, data preprocessing, and augmentation techniques.
   
-### Day 2: Brain Tumor Detection using MRI Scans
+<!-- ### Day 2: Brain Tumor Detection using MRI Scans
 
 - **Description**: Created a deep learning model for detecting brain tumors from MRI scans using pre-processing, segmentation, and classification.
 - **Technologies**: TensorFlow, PyTorch, 3D Slicer, ITK-SNAP
@@ -107,7 +107,7 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-4. Follow the instructions in each project folder (`Day1`, `Day2`, etc.) to run the respective projects.
+4. Follow the instructions in each project folder (`Day1`, `Day2`, etc.) to run the respective projects.-->
 
 ## Conclusion
 
