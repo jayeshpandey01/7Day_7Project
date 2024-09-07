@@ -112,8 +112,6 @@ pip install -r requirements.txt
 
 These seven projects were designed to cover a wide range of machine learning and deep learning techniques, from image classification and medical imaging to natural language processing and time series forecasting. By completing these, I aimed to strengthen my understanding of real-world applications and improve my skills as an ML/DL developer.
 
-Feel free to explore each project and reach out if you have any questions!
 
 ---
 
-This `README.md` will provide a clear, organized overview of your projects and make it easier for others to explore your work and understand your approach.
