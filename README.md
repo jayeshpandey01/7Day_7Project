@@ -7,11 +7,12 @@ Welcome to my **7-Day, 7-Project Machine Learning & Deep Learning** challenge. O
 
 ## Table of Contents
 
-1. [Day 1: Image Classification using CNNs](#day-1-image-classification-using-cnns)
-<!-- 2. [Day 2: Brain Tumor Detection using MRI Scans](#day-2-brain-tumor-detection-using-mri-scans)
-3. [Day 3: Time Series Forecasting for Agricultural Data](#day-3-time-series-forecasting-for-agricultural-data)
+1. [Day 1: Image Classification using CNNs](#Day_01(Image_classification_with_CNN)
+5. [Day 2: Cryptographic Algorithm Detection](#Day_02(cryptographic Algorithm)
+
+<!--3. [Day 3: Time Series Forecasting for Agricultural Data](#day-3-time-series-forecasting-for-agricultural-data)
 4. [Day 4: Sentiment Analysis with NLP](#day-4-sentiment-analysis-with-nlp)
-5. [Day 5: Cryptographic Algorithm Detection](#day-5-cryptographic-algorithm-detection)
+2. [Day 2: Brain Tumor Detection using MRI Scans](#day-2-brain-tumor-detection-using-mri-scans)
 6. [Day 6: Medical Diagnosis System](#day-6-medical-diagnosis-system)
 7. [Day 7: Object Detection using YOLO](#day-7-object-detection-using-yolo)
 
@@ -43,6 +44,13 @@ pip install -r requirements.txt
 - **Technologies**: TensorFlow, Keras, PyTorch
 - **Dataset**: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 - **Highlights**: Demonstrates basic image classification using CNNs, data preprocessing, and augmentation techniques.
+
+### Day 2: Cryptographic Algorithm Detection
+
+- **Description**: Leveraged AI/ML techniques to identify and classify various cryptographic algorithms from a custom dataset.
+- **Technologies**: TensorFlow, Scikit-learn, PyCryptodome
+- **Dataset**: Custom-generated cryptography dataset
+- **Highlights**: Implemented feature extraction and classification models for accurate cryptographic algorithm detection.
   
 <!-- ### Day 2: Brain Tumor Detection using MRI Scans
 
@@ -65,12 +73,7 @@ pip install -r requirements.txt
 - **Dataset**: [Kaggle Twitter Sentiment Analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2)
 - **Highlights**: Text data preprocessing, tokenization, sentiment prediction.
 
-### Day 5: Cryptographic Algorithm Detection
 
-- **Description**: Applied AI/ML techniques to detect and classify cryptographic algorithms from a dataset.
-- **Technologies**: Scikit-learn, TensorFlow
-- **Dataset**: Custom cryptography data
-- **Highlights**: Feature extraction, classification of cryptographic algorithms.
 
 ### Day 6: Medical Diagnosis System
 
