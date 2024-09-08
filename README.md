@@ -7,8 +7,8 @@ Welcome to my **7-Day, 7-Project Machine Learning & Deep Learning** challenge. O
 
 ## Table of Contents
 
-1. [Day 1: Image Classification using CNNs](#Day_01(Image_classification_with_CNN)
-5. [Day 2: Cryptographic Algorithm Detection](#Day_02(cryptographic Algorithm)
+1. [Day 1: Image Classification using CNNs](#Day_01(Image_classification_with_CNN))
+5. [Day 2: Cryptographic Algorithm Detection](#Day_02(cryptographic_Algorithm))
 
 <!--3. [Day 3: Time Series Forecasting for Agricultural Data](#day-3-time-series-forecasting-for-agricultural-data)
 4. [Day 4: Sentiment Analysis with NLP](#day-4-sentiment-analysis-with-nlp)
